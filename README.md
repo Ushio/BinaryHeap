@@ -3,6 +3,8 @@ Best Simple Binary Heap Implementation
 zlib License
 
 
+```swift
+
 var heap = BinaryHeap<Int>()
 heap.push(5)
 heap.push(2)
@@ -23,3 +25,5 @@ print>
 4
 5
 6
+
+```
